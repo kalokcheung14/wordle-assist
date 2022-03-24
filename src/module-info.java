@@ -1,0 +1,2 @@
+module wordle_assist {
+}
